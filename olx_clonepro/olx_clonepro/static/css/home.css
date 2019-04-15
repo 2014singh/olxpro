@@ -1,0 +1,16 @@
+#firstjumb{
+    height: 50px;
+    width: 1400px;
+
+}
+.jumbotron h3{
+    margin-bottom: 50px;
+    margin-top: -35px;
+    font-size: 14px;
+}
+
+.jumbotron h1{
+    margin-bottom: 50px;
+    margin-top: -33px;
+    font-size: 14px;
+}
